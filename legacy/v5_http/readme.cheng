@@ -1,0 +1,4 @@
+把tcpConnection里的boost any类型的_context换成了void * 类型, 
+	在onConnection里new HttpContext，目前没找到在哪里析构
+
+未处理buffer如果没有接收到完整的http整条报文消息的极端情况下, 如何处理
