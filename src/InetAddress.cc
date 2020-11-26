@@ -5,7 +5,7 @@
  ///
 
 
-#include "InetAddress.h"
+#include "mynet/InetAddress.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/socket.h>

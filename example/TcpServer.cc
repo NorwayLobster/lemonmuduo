@@ -5,8 +5,8 @@
  ///
  
 #include "TcpServer.h"
-#include "InetAddress.h"
-#include "SocketUtil.h"
+#include "mynet/InetAddress.h"
+#include "mynet/SocketUtil.h"
 #include <iostream>
 using std::cout;
 using std::endl;

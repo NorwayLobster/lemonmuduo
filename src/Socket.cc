@@ -4,9 +4,9 @@
  /// @date    2015-11-04 17:42:38
  ///
 
-#include "Socket.h"
-#include "SocketUtil.h"
-#include "InetAddress.h"
+#include "mynet/Socket.h"
+#include "mynet/SocketUtil.h"
+#include "mynet/InetAddress.h"
 
 namespace wd
 {

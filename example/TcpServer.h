@@ -7,8 +7,8 @@
 #ifndef __WD_TCPSERVER_H__
 #define __WD_TCPSERVER_H__
 
-#include "Acceptor.h"
-#include "EpollPoller.h"
+#include "mynet/Acceptor.h"
+#include "mynet/EpollPoller.h"
 #include <string>
 
 using std::string;
