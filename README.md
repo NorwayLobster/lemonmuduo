@@ -1,1 +1,1 @@
-# myNet is a socket net lib on Linux platform which is based on epoll.
+# lemonmuduo is a socket networking lib using Reactor Pattern which is based on epoll on Linux platform 
